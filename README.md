@@ -75,6 +75,8 @@ The uploadImage function dynamically receives the ImageSource based on the user'
 
 Once an image is chosen, it is converted to a File type and assigned to the 'file' variable. By utilizing the setState method, the updated image is promptly displayed, ensuring a seamless and interactive image selection experience.
 
+| <img src="https://github.com/Thanasis-Traitsis/flutter_upload_crop_image/blob/main/screenshots/pick_image_gallery_result.png" alt="Pick Image Gallery Result" width="300" height="auto"> | <img src="https://github.com/Thanasis-Traitsis/flutter_upload_crop_image/blob/main/screenshots/pick_image_camera_result.png" alt="Pick Image Camera Result" width="300" height="auto"> |
+
 ### Image Crop
 
 Now, for those instances when we need to refine the images we upload, such as cropping or rotating them, we can seamlessly employ the capabilities of the image_cropper package by integrating an additional function.
