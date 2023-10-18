@@ -129,6 +129,9 @@ Future uploadImage(ImageSource source) async {
   }
 ```
 
+<img src="https://github.com/Thanasis-Traitsis/flutter_upload_crop_image/blob/main/screenshots/crop_image" alt="Crop Image" width="300" height="auto">
+<img src="https://github.com/Thanasis-Traitsis/flutter_upload_crop_image/blob/main/screenshots/crop_image_result.png" alt="Crop Image Result" width="300" height="auto">
+
 ## Conclusion
 
 Congratulations! You've successfully learned how to implement image upload and crop functionalities in your Flutter applications. By leveraging the powerful capabilities of the **image_picker** and **image_cropper** packages, you've equipped your app with seamless image handling capabilities, providing your users with a rich and interactive experience. Remember to stay attuned to the specific configurations and nuances for different devices while integrating these features. With your newfound knowledge, you're now well-equipped to build stunning Flutter applications with efficient image management. Happy coding!
