@@ -69,11 +69,10 @@ Future uploadImage(ImageSource source) async {
 
 The uploadImage function dynamically receives the ImageSource based on the user's selection between the gallery or camera options. 
 
-- gallery button : ImageSource.gallery
-<img src="https://github.com/Thanasis-Traitsis/flutter_upload_crop_image/blob/main/screenshots/pick_image_gallery.png" alt="Pick Image Gallery" width="300" height="auto">
-
-- camera button : ImageSource.camera
+|   gallery button : ImageSource.gallery   |   camera button : ImageSource.camera  |
+|:-----------------------:|:-----------------------:|
 <img src="https://github.com/Thanasis-Traitsis/flutter_upload_crop_image/blob/main/screenshots/pick_image_camera.png" alt="Pick Image Camera" width="300" height="auto">
+| <img src="https://github.com/Thanasis-Traitsis/flutter_upload_crop_image/blob/main/screenshots/pick_image_gallery.png" alt="Pick Image Gallery" width="300" height="auto"> |  |
 
 Once an image is chosen, it is converted to a File type and assigned to the 'file' variable. By utilizing the setState method, the updated image is promptly displayed, ensuring a seamless and interactive image selection experience.
 
