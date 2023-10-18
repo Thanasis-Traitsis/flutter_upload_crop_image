@@ -128,7 +128,7 @@ Future uploadImage(ImageSource source) async {
     }
   }
 ```
-<div style="display:flex">
+<div  style="display:flex; flex-direction:row;">
 <img src="https://github.com/Thanasis-Traitsis/flutter_upload_crop_image/blob/main/screenshots/crop_image.png" alt="Crop Image" width="300" height="auto">
 <img src="https://github.com/Thanasis-Traitsis/flutter_upload_crop_image/blob/main/screenshots/crop_image_result.png" alt="Crop Image Result" width="300" height="auto">
 </div>
