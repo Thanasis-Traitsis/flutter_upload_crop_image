@@ -39,7 +39,7 @@ and now, we are ready for the fun part. Let's code !
 
 ## Code
 
-<img src="/screenshots/homepage.png" alt="Home Page" width="300" height="auto">
+<img src="https://github.com/Thanasis-Traitsis/flutter_upload_crop_image/blob/main/screenshots/homepage.png" alt="Home Page" width="300" height="auto">
 <!-- ![Home Page](https://github.com/Thanasis-Traitsis/flutter_upload_crop_image/blob/main/screenshots/homepage.png) -->
 
 I created a simple **Statefull** page where the user can choose how to upload an image (camera or gallery). Once the image is chosen, the result promptly appears above the selection buttons for a seamless and intuitive experience.
